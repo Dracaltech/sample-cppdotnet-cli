@@ -41,10 +41,10 @@ int main()
 		i++;
 	}
 
-	Console::WriteLine("Temperature (C): " + values[0]);
-	Console::WriteLine("RH..........(%): " + values[1]);
-	Console::WriteLine("Pressure..(kPa): " + values[2]);
-	Console::WriteLine("Temperature (F): " + (values[0] * 9 / 5 + 32));
+	Console::WriteLine("Pressure..(kPa): " + values[0]);
+	Console::WriteLine("Temperature (C): " + values[1]);
+	Console::WriteLine("RH..........(%): " + values[2]);
+	Console::WriteLine("Temperature (F): " + (values[1] * 9 / 5 + 32));
 
 	return 0;
 }
