@@ -19,14 +19,14 @@ Run by
 
 
 ## Sample output
-<img src="https://github.com/Dracaltech/sample-cppdotnet-cli/assets/1357711/31bd5adb-2336-4b0b-aab7-590e1b9f901a" width=400 />
+<img src="https://github.com/Dracaltech/sample-cppdotnet-cli/assets/1357711/a6294b0c-0d23-40d3-8e97-ae1cac2dd763" width=400 />
 
 ```
 PS C:\dev\dracal\sample-cppdotnet-cli> .\x64\Debug\sample-cppdotnet-cli.exe
-Temperature (C): 101.99
-RH..........(%): 20.68
-Pressure..(kPa): 60.74
-Temperature (F): 215.582
+Pressure..(kPa): 101.8
+Temperature (C): 23.28
+RH..........(%): 60.34
+Temperature (F): 73.904
 PS C:\dev\dracal\sample-cppdotnet-cli>
 
 ```
